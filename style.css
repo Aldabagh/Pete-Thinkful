@@ -13,6 +13,7 @@ h1,
 h2,
 h3 {
   font-family: "Playfair Display", Times, serif;
+  text-align:center;
 }
 
 article {
@@ -26,7 +27,6 @@ article div {
 
 p {
   line-height: 1.5;
-  text-align:left;
 }
 
 /* The div container constrains the content width within the main container to 600px */
@@ -51,6 +51,7 @@ hr {
   border-radius: 50%;
   border: 2px solid #003049
 }
+
 a{
   color:#d62828;
   
@@ -62,11 +63,9 @@ footer{
   text-align:center;
 }
 section{
-  text-align:left;
+  text-align:center;
 }
 nav{
   word-spacing:10px;
 }
-ul{
-  text-align:left;
-}
+
